@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo_YoungZ</title>
+  <subtitle>xxxxx</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="bozongz.github.com/"/>
+  <updated>2017-03-18T11:52:38.000Z</updated>
+  <id>bozongz.github.com/</id>
+  
+  <author>
+    <name>YoungZ</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="bozongz.github.com/wiki/123456/"/>
+    <id>bozongz.github.com/wiki/123456/</id>
+    <published>2017-03-18T11:53:46.148Z</published>
+    <updated>2017-03-18T11:52:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="./1489837789806.png" alt="Alt text"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;./1489837789806.png&quot; alt=&quot;Alt text&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="bozongz.github.com/wiki/Untitled/"/>
+    <id>bozongz.github.com/wiki/Untitled/</id>
+    <published>2017-03-18T11:36:50.818Z</published>
+    <updated>2017-03-18T11:35:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="./1489836907528.png" alt="Alt text"><br>看看效果吧</p>
+<p>1、<img src="./1489836921778.png" alt="Alt text"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;./1489836907528.png&quot; alt=&quot;Alt text&quot;&gt;&lt;br&gt;看看效果吧&lt;/p&gt;
+&lt;p&gt;1、&lt;img src=&quot;./1489836921778.png&quot; alt=&quot;Alt text&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hehe</title>
+    <link href="bozongz.github.com/wiki/hehe/"/>
+    <id>bozongz.github.com/wiki/hehe/</id>
+    <published>2017-03-18T11:15:13.000Z</published>
+    <updated>2017-03-18T11:15:13.867Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="bozongz.github.com/wiki/hello-world/"/>
+    <id>bozongz.github.com/wiki/hello-world/</id>
+    <published>2017-03-17T15:25:08.256Z</published>
+    <updated>2017-03-17T15:25:08.256Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" rel="external nofollow noopener noreferrer" target="_blank">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" rel="external nofollow noopener noreferrer" target="_blank">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" rel="external nofollow noopener noreferrer" target="_blank">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" rel="external nofollow noopener noreferrer" target="_blank">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" rel="external nofollow noopener noreferrer" target="_blank">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" rel="external nofollow noopener noreferrer" target="_blank">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" rel="external nofollow noopener noreferrer" target="_blank">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Hexo&lt;/a&gt;! This is your very first post.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
